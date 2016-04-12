@@ -290,6 +290,7 @@
 				70D0FFE21CBA864500D27781 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
